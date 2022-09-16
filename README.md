@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bimbonium
-- 👀 I’m interested in SQL, Python and C++
+- 👀 I’m interested in C, C++, Python, and SQL
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to absorb knowledge and contribute where possible
 - 📫 How to reach me? Drop a message
